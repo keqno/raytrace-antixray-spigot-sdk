@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "dev.imanity.antixray"
-version = "1.0.0"
+version = "1.0.3"
 
 repositories {
     mavenCentral()
@@ -17,6 +17,11 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
 }
 
 publishing {
