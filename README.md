@@ -7,6 +7,7 @@ This is a SDK to integrate raytracing anti-xray into your Spigot/Paper fork, wit
 ## Forks with SDK intrgrated
 - [1.8.8 ImanitySpigot3](https://builtbybit.com/resources/imanityspigot3-regular.10770/)
 - [1.21.4 Leaf](https://github.com/Winds-Studio/Leaf/)
+- [1.21.x UniverseSpigot](https://discord.universespigot.com/)
 
 ## Why should you care? (as a developer of a Spigot/Paper fork)
 
